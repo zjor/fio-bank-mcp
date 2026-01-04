@@ -1,6 +1,6 @@
 # FIO Bank MCP Server
 
-An MCP (Model Context Protocol) server for FIO Bank API in Czech Republic. Allows AI assistants like Claude to access FIO Bank account transactions.
+An MCP (Model Context Protocol) server for FIO Bank API in the Czech Republic. Allows AI assistants like Claude to access FIO Bank account transactions.
 
 ## Installation
 
